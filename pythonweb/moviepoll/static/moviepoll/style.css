@@ -1,0 +1,46 @@
+li a {
+    color: white;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 forestgreen,
+    1px -1px 0 forestgreen,
+    -1px 1px 0 forestgreen,
+    1px 1px 0 forestgreen;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 25px;
+
+}
+body {
+    background-image:url("images/ben1.2.jpg");
+    background-size:100%;
+}
+
+h5 {
+    color: white;
+    text-shadow:
+    -1px -1px 0 forestgreen,
+    1px -1px 0 forestgreen,
+    -1px 1px 0 forestgreen,
+    1px 1px 0 forestgreen;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 40x;
+}
+
+.topright {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+  }
+
+h6 {
+    text-align: left;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: black;
+    text-shadow:
+    -1px -1px 0 white,
+    1px -1px 0 white,
+    -1px 1px 0 white,
+    1px 1px 0 white;
+    font-size: 30px;
+}
